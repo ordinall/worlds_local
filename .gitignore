@@ -1,0 +1,15 @@
+# Exclude everything
+*
+
+# Include the .gitignore
+!.gitignore
+
+# Include the world files
+!helloworld.db
+!helloworld.db.old
+!helloworld.fwl
+!helloworld.fwl.old
+
+!pull.bat
+!push.bat
+!README.md
