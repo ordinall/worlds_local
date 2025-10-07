@@ -5,10 +5,10 @@
 !.gitignore
 
 # Include the world files
-!helloworld.db
-!helloworld.db.old
-!helloworld.fwl
-!helloworld.fwl.old
+!helloworld2.db
+!helloworld2.db.old
+!helloworld2.fwl
+!helloworld2.fwl.old
 
 !pull.bat
 !push.bat
